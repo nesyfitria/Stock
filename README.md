@@ -5,8 +5,8 @@ source financial statement workbook : idx.co.id
 
 postgres
 
-host : localhost
-port : 5432
-user :gen
-password :password
+host : localhost,
+port : 5432,
+user :gen,
+password :password ,
 database :public
